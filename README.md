@@ -1,5 +1,5 @@
 # HastebinAPI
-A hastebin.com API for Java
+A simple hastebin.com API for Java
 
 # Releases
 Latest release: [Download](https://github.com/xskq/HastebinAPI/releases/latest)
